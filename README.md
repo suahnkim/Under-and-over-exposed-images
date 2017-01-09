@@ -1,6 +1,8 @@
 # Under-and-over-exposed-images
-Images provided by Rolf Lussi during internship @ Korea University
+Images are provided by Rolf Lussi during internship @ Korea University
+
 Images has been resized, cropped and saved as png (originally JPEG)
+
 Please make appropriate citation for reuse
 
 Rolf Lussi, under and over exposed image suite, Korea University, 2014

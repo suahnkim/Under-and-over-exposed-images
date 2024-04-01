@@ -1,10 +1,12 @@
 # Under-and-over-exposed-images
-This dataset has been migrated to https://iaslab.org/download.html#under_over_exposed_db
+Images are provided by Rolf Lussi during internship @ Korea University
 
-Please use the new link to download the images. 
+Images has been resized, cropped and saved as png (originally JPEG)
 
-Thank you,
+Please make appropriate citation for reuse
 
-Sincerely,
+Rolf Lussi, under and over exposed image suite, Korea University, 2014
 
-Suah Kim, @iaslab
+OR
+
+Kim, S., Lussi, R., Qu, X., & Kim, H. J. (2015, November). Automatic contrast enhancement using reversible data hiding. In Information Forensics and Security (WIFS), 2015 IEEE International Workshop on (pp. 1-5). IEEE.
